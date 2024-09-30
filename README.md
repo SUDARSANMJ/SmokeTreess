@@ -1,5 +1,5 @@
-# cd server
-
+#Server
+## cd server
 npm init --yes
 npm i express
 npm i nodemon
@@ -8,7 +8,10 @@ npm i mongoose
 npx nodemon index.js
 npm install cors
 
+
+
 #client
+##client
 cd client
 npm start
 npm install bootstrap
